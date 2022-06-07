@@ -1,0 +1,21 @@
+#sidebar{
+	height:100%;
+	width:30vw;
+	float:left;
+	margin-left:-30vw;
+	transition: margin 1.5s;
+}
+#menu{
+	float:left;
+	width:100vw;
+	height:100%;
+	transition: width 1.5s;
+}
+#menu h1{
+	position:relative;
+	top:50%;
+}
+#video{
+	width:100%;
+	height:80px;
+}
