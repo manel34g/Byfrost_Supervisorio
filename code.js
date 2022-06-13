@@ -241,33 +241,6 @@ function XYvalue(){
             case 2:
             return "*1x3";
             break;
-            case 3:
-            return "*2x1";
-            break;
-            case 4:
-            return "*2x2";
-            break;
-            case 5:
-            return "*2x3";
-            break;
-            case 6:
-            return "*3x1";
-            break;
-            case 7:
-            return "*3x2";
-            break;
-            case 8:
-            return "*3x3";
-            break;
-            case 9:
-            return "*4x1";
-            break;
-            case 10:
-            return "*4x2";
-            break;
-            case 11:
-            return "*4x3";
-            break;
         }
      }
     }

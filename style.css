@@ -73,8 +73,8 @@ details > summary::-webkit-details-marker {
 }
 
 div#storage{
-	width: 18vw;
-	min-width:200px;
+	width: 6.2vw;
+	min-width: 30px;
 }
 
 div#storage input{
